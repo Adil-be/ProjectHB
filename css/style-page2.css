@@ -1,0 +1,36 @@
+.section-projet{
+    height: 100vh;
+    background: url(../images/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall.jpg) center center;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+.column-2{
+    width: 100%;
+    margin: 50px 0;
+}
+.column-2>:first-child{
+    width: 60%;
+    color: aqua;
+}
+.column-2>:last-child{
+    width: 40%;
+    flex-wrap: wrap;
+}
+
+
+.icon-language{
+    width: 50px;
+    margin: 10px;
+    height: fit-content;
+}
+
+/* section 2 "sticky bacground */
+
+.sticky-background{
+    height: 50vh;
+    background: url(../images/groupeHb.jfif)center center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
