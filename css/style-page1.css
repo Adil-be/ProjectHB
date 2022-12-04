@@ -136,14 +136,14 @@ margin: 20px 0;
 }
 
 .bg1{
-    background:linear-gradient(to right,rgba(1, 1, 1, 0.8),rgba(1, 1, 1, 0.5) ), url("../images/bg1.jpg") bottom center;
+    background:linear-gradient(to right,rgba(1, 1, 1, 0.8),rgba(1, 1, 1, 0.5) ), url(../images/bg1.jpg) bottom center;
 }
 .bg2{
-    background:linear-gradient(to right,rgba(1, 1, 1, 0.5),rgba(1, 1, 1, 0.5) ), url("../images/bg2.jpg") bottom center;
+    background:linear-gradient(to right,rgba(1, 1, 1, 0.5),rgba(1, 1, 1, 0.5) ), url(../images/bg2.jpg) bottom center;
     
 }
 .bg3{
-    background:linear-gradient(to right,rgba(1, 1, 1, 0.5),rgba(1, 1, 1, 0.5) ), url("../images/bg3.jpg") bottom center;
+    background:linear-gradient(to right,rgba(1, 1, 1, 0.5),rgba(1, 1, 1, 0.5) ), url(../images/bg3.jpg) bottom center;
 }
 .bg3, .bg1, .bg2{background-size: cover;}
 
